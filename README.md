@@ -12,7 +12,5 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=58FAF4&style=flat-square)
 ![firebas](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebas&color=36465D&logoColor=58FAF4&style=flat-square)
 ![androidstutio](https://img.shields.io/static/v1?logo=androidstudio&label=&message=android_studio&color=36465D&logoColor=58FAF4&style=flat-square)
-
-
 &nbsp;&nbsp;&nbsp;
 
