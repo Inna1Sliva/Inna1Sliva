@@ -2,6 +2,10 @@
 ================================
 Я Android разработчик
 --------------------------------
+Обо мне:
+Свой путь в IT начала с прохождения онлайн курсов.Во время прохождения курсов, участвовала в интенсиве от компании ASTON. Сейчас участвую в пороектах по разработке мобильных приложений в компании Surf Bro Apps.
+
+
 Способ связи со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-36465D?style=flat&logo=Telegram&logoColor=81F7F3)](https://t.me/ITishka94)
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
