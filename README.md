@@ -17,3 +17,5 @@
 ![androidstutio](https://img.shields.io/static/v1?logo=androidstudio&label=&message=android_studio&color=36465D&logoColor=58FAF4&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
+![](https://www.codewars.com/users/Inna1Sliva/badges/large)
+
